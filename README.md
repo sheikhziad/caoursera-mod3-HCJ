@@ -1,10 +1,9 @@
 # caoursera-mod3-HCJ
 <hr>
 
+## Coursera course: HTML, CSS, and Javascript for Web Developers, Module 3 Coding Assignment, completed.
 
-Coursera course: HTML, CSS, and Javascript for Web Developers, Module 3 Coding Assignment, completed.
-
-link: 
+link: https://sheikhziad.github.io/coursera-mod3-HCJ/
 
 Time to complete: About 1 hour or less.
 
