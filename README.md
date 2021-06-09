@@ -1,4 +1,4 @@
-# caoursera-mod3-HCJ
+# coursera-mod3-HCJ
 <hr>
 
 ## Coursera course: HTML, CSS, and Javascript for Web Developers, Module 3 Coding Assignment, completed.
